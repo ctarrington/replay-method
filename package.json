@@ -1,0 +1,25 @@
+{
+  "name": "replay-method",
+  "version": "1.0.0",
+  "description": "record and replay the results of a method or function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctarrington/replay-method.git"
+  },
+  "author": "CT Arrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctarrington/replay-method/issues"
+  },
+  "homepage": "https://github.com/ctarrington/replay-method#readme",
+  "devDependencies": {
+    "tape": "^4.6.2"
+  },
+  "dependencies": {
+    "fs-extra": "^0.30.0"
+  }
+}
